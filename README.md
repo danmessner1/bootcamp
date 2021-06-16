@@ -170,7 +170,7 @@ Only the Jump Box machine can accept SSH connections from the Internet. Access t
 - 47.132.83.223
 
 Machines within the network can only be accessed by the Jump Box.
-- The Jump Box can access the ELK VM Elk-1 using SSH.  The Jump Box's IP address is 10.0.0.7
+- The Jump Box can access the ELK VM Elk-1 using SSH.  The Jump Box's IP address is 10.0.0.4
 
 A summary of the access policies in place can be found in the table below.
 
