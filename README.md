@@ -222,7 +222,7 @@ filebeat-playbook.yml is used to deploy Filebeat on each of the web servers so t
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![](https://github.com/danmessner1/bootcamp/blob/main/Diagrams/Elk%20Stack%20in%20Azure.png)
+![](https://github.com/danmessner1/bootcamp/blob/main/Diagrams/ElkDocker.jpg)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
